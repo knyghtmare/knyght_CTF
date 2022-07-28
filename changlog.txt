@@ -1,0 +1,12 @@
+Changelog
+
+v1.0.0
+--> initial release
+
+v1.0.1
+--> teams are now P1P4 and P2P3
+--> fix typo in description in descriptions
+--> Map adjusted slightly to allow flags and bases to be seperate coordinates
+--> flags move slightly away from base
+--> XP modifier is now 70%
+--> flags are actual "flags" on the map now
