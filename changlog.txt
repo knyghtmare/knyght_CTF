@@ -10,3 +10,5 @@ v1.0.1
 --> flags move slightly away from base
 --> XP modifier is now 70%
 --> flags are actual "flags" on the map now
+--> 1v1 CTF mode disabled due to being unfeasible on current map
+--> all sides +2 income (base is now +6)
