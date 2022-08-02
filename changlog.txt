@@ -19,3 +19,6 @@ v1.0.1
 --> New Option under Custom Options: Two Suns Schedule
     --> If you want to have after-the-fall MP 2v2 match
     --> Switched Off as default but can be enabled on preference
+
+v1.0.1.1
+--> Monster spawns are now every 6 turns (instead of 4)
