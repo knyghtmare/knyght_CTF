@@ -12,6 +12,10 @@ v1.0.1
 --> flags are actual "flags" on the map now
 --> 1v1 CTF mode disabled due to being unfeasible on current map
 --> all sides +2 income (base is now +6)
+--> AI sides get +2 more income (starting is now +10)
 --> Map revised by Hejnewar
 --> Buffed the guardians/defenders
 --> Defenders and monster sides are no longer "allied"
+--> New Option under Custom Options: Two Suns Schedule
+    --> If you want to have after-the-fall MP 2v2 match
+    --> Switched Off as default but can be enabled on preference
